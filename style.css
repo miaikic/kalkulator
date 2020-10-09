@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://papers.co/wallpaper/papers.co-bg67-ipad-pro-paint-dark-apple-art-29-wallpaper.jpg");   
+    
+}
+h3{
+	color:yellow;
+	
+}
+
+#container {
+    width: auto;
+    height: auto;
+}
+
+#calc {
+	width: 230px;
+	height: 520px;
+	background-color: rgb(238, 238, 238);
+	margin: 0 auto;
+	top: 30px;
+	position: relative;
+    
+}
+
+#result{
+	height: 100px;
+}
+#history{
+	text-align: right;
+	height: 10px;
+	margin: 0 20px;
+	padding-top: 20px;
+	font-size: 15px;
+	color: #afaeae;
+}
+#output{
+	text-align: right;
+	height: 50px;
+	margin: 10px 20px;
+	font-size: 30px;
+}
+#keyboard{
+	height: 400px;
+}
+.operator, .number{
+	height: 50px;
+	width: 70px;
+	float: left;
+    background-color: rgb(238, 238, 238);
+    margin: auto;
+    margin-top: 10px  ;
+}
+
+
+
+
+
+
+
